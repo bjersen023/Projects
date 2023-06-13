@@ -1,0 +1,11 @@
+D:\visual studio projects\WorkSapce\WorkSapce\bin\Debug\WorkSapce.exe.config
+D:\visual studio projects\WorkSapce\WorkSapce\bin\Debug\WorkSapce.exe
+D:\visual studio projects\WorkSapce\WorkSapce\bin\Debug\WorkSapce.pdb
+D:\visual studio projects\WorkSapce\WorkSapce\obj\Debug\WorkSapce.csproj.AssemblyReference.cache
+D:\visual studio projects\WorkSapce\WorkSapce\obj\Debug\WorkSapce.csproj.SuggestedBindingRedirects.cache
+D:\visual studio projects\WorkSapce\WorkSapce\obj\Debug\WorkSapce.Form1.resources
+D:\visual studio projects\WorkSapce\WorkSapce\obj\Debug\WorkSapce.Properties.Resources.resources
+D:\visual studio projects\WorkSapce\WorkSapce\obj\Debug\WorkSapce.csproj.GenerateResource.cache
+D:\visual studio projects\WorkSapce\WorkSapce\obj\Debug\WorkSapce.csproj.CoreCompileInputs.cache
+D:\visual studio projects\WorkSapce\WorkSapce\obj\Debug\WorkSapce.exe
+D:\visual studio projects\WorkSapce\WorkSapce\obj\Debug\WorkSapce.pdb
